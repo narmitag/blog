@@ -31,7 +31,7 @@ github_username:  jekyll
 repository: narmitag/narmitag.github.io.
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
